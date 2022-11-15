@@ -1,8 +1,7 @@
-#Valuationquan
-##Chapter 1
+Chapter 1
 Financial matters and investment
 Ordinary people have a strong desire to save money, and usually have spare money to deposit in bank accounts. In this way, it is safe and you can enjoy a little benefits on interest. This is actually the behavior of regularly investing in bank savings projects. But we know that the interest rate of bank time deposits is very low. Low interest rate is because bank deposit is theoretically a "risk-free" investment.
-###§1 financial management is important
+<br>§1 financial management is important
 In the process of market investment, the rate of return is proportional to the risk. The lower the risk taken, the lower the return on investment. On the contrary, high-risk investment may be accompanied by rich returns .
 <br>Bank fixed deposit is a kind of financial behavior that everyone of us will do. With "quasi national reputation" as guarantee, it can be said to be one of the safest ways of financing. The ultra-high security doomed its ultra-low yield .
 <br>The fixed deposit interest rate of the bank will fluctuate with the development of the national economy. Take the one-year fixed deposit interest rate as an example. In 1993, it was as high as 10.98%, while in 2015, it was as low as 1.5%. In 2021, it will remain at 1.5% .
@@ -731,7 +730,7 @@ In the face of such a high rate of currency depreciation, financial management i
 <br>For example, in 1992, an ordinary Santana car from Shanghai Volkswagen Factory was sold for 180,000 yuan. In July 2012, when the model was discontinued, the price was about 90,000 yuan. For Santana, it is getting cheaper and cheaper, but who can buy cars every year? 
 <br>As a type of durable consumer goods, car have been used for at least six or seven years. What we care more about is the price of daily necessities that are often used around us. In my own experience, Hot Pepper Soup is a kind of breakfast that the northern people like very much. In 1990, the price was 20 cents a bowl. By 2016, the price was basically stable at three yuan a bowl. In 27 years, the price has risen 14 times. 
 <br>In addition, taking my city as an example, In 2005, the price of commercial housing was about 1000 yuan per square meter. In 2016, the price has risen to 8000 yuan per square meter. Eleven years, the price has risen seven times.
-###§2 dilemma in money management
+<br>§2 dilemma in money management
 The grim reality tells us that our wealth will shrink significantly if we do not manage money. What financial means can we have for ordinary people?
 <br>No1, bank financial products. Broadly speaking, bank financial products can be divided into fixed income and risk types. Here we specifically refer to fixed income bank financial products, which are mainly fixed income investments such as bank time deposits, agreement deposits, national debt, financial bonds, corporate bonds, convertible bonds, bond funds, etc. 
 <br>Generally speaking, these products have low returns, but are relatively stable and have low risks, Note that these products are not risk free, but rather low risk. The yield of bank financial products is usually higher than the one-year fixed deposit interest rate in the same period, roughly equivalent to the five-year fixed deposit interest rate in the same period. 
@@ -747,14 +746,14 @@ The grim reality tells us that our wealth will shrink significantly if we do not
 <br>Sadly, people in the stock market, on the whole, still lose money. "Seven losses, two equalities and one gain" is a phrase that most shareholders often say, as if the stock market is not a good way to manage money. 
 <br> Is that really the case? As an example, the Shanghai Securities Composite Index was launched in December 1990, with a starting point of 100 points and a closing point of 3639.78 points on December 2021. 
 <br>The cumulative growth rate in 31 years is 36 times, and the compound annual growth rate is 12.25%. If we hold such assets, it will steadily outperform the inflation rate by a large margin.
-###§3 Stock Indexes are different
+<br>§3 Stock Indexes are different
 For ordinary retail investors, the investment index is the most suitable, because compared with individual stocks, the index is average, sustainable and passive. And the risk is low.
 <br>(1)	Average means that an index is a collection of a package of stocks, which reflects the average rise and fall of the market. As long as the market is rising as a whole, the index will also rise. Buying and selling the index will be better than Buying and selling the stock shares.
 <br>(2)	Sustainability means that once the index is released, it will continue to run according to the rules.Generally, the index will adjust the constituent stocks according to the compilation rules every year to eliminate the fittest,as long as the exchange does not close, the index will continue to exist.
 <br>The US Dow Jones Index has a long history. When it was released in 1896, there were 12 stocks, representing the most dazzling enterprise stars in the US economy at that time. After 100 years of evolution, the Dow Jones Index still operates healthily, while the original 12 companies leaving only General Electric still remain in the index.
 <br>(3)	Passivity means that the index operates according to the compilation rules, without the subjective will of people, and will not be changed because of the preferences of publishers, thus ensuring the objective, fair and equitable operation of the index.
 <br>(4)	The risk is low, which is relative to individual stocks. Because of the average, sustainability and passivity of the index, the operation of the index is relatively stable. An excellent index can be continuously incorporated into excellent stocks (listed companies) according to the compilation rules, so as to ensure that the index is generally in a spiral upward trend.
-###§4 principle of regular investment
+<br>§4 principle of regular investment
 Having said so much about the benefits of the index, how should we buy and sell the index? Fixed investment is the most suitable investment method for retail investors. For investors who often speculate in stocks, they have more or less heard of the concept of fixed investment. As the name implies, fixed investment is to invest in the agreed amount at the agreed time.
 <br>More people in China may know that fixed investment in fund. Fund companies issue fund products to attract customers to invest in their own fund products, so as to introduce this business into fund investment. 
 <br>It is a fund investment method in which the investor submits an application to the designated fund sales agency to agree in advance the deduction date, amount, method and name of the fund to be invested in each period, and the sales agency will automatically complete the deduction and subscription in the bank account designated by the investor on the agreed deduction date.
