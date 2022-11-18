@@ -316,8 +316,8 @@ Chapter 1
   padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt"></td>
  </tr>
 </tbody></table>		
-Generally speaking, the inflation rate is the rate of currency depreciation, which means that the purchasing power of currency is declining. For example, at the beginning of 2011, if 100 yuan, you can buy a birthday cake. The inflation rate in 2011 was 5.40%. That means that the actual purchasing power of 100 yuan at the end of 2011 is only 94.88 yuan as 100 yuan had at the beginning of the year. At the end of 2011, 
-<br>we could not buy that birthday cake with 100 yuan in our hands. At this time, the price of birthday cake is 105.4 yuan.
+Generally speaking, the inflation rate is the rate of currency depreciation, which means that the purchasing power of currency is declining. For example, at the beginning of 2011, if 100 yuan, you can buy a birthday cake. The inflation rate in 2011 was 5.40%. That means that the actual purchasing power of 100 yuan at the end of 2011 is only 94.88 yuan as 100 yuan had at the beginning of the year.  
+<br>At the end of 2011,we could not buy that birthday cake with 100 yuan in our hands. At this time, the price of birthday cake is 105.4 yuan.
 <br>From the above table, we can calculate that the annual average inflation rate from 1990 to 2016 is 4.33%.It is a very frightening number .
 <br>It means that if we do not make any financial efforts, the cash held in our hands will depreciate at a rate of 4.33% every year. For example, we can more intuitively see the damage caused by inflation. If we had 10000 yuan at home at the beginning of 1990, by the end of 2016, the purchasing power of 10000 yuan will only be 2875 yuan. The accumulated depreciation reached 71.25%. 
 In the face of such a high rate of currency depreciation, financial management is imperative.
